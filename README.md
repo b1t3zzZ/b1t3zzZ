@@ -5,17 +5,8 @@
 
   <br/><br/>
 
-  <!-- Typing SVG -->
-  <a href="https://github.com/b1t3zzZ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Hi+there,+I'm+Maksym+Tsybulevskyi;2nd+Year+Student+at+ETML;Aspiring+Frontend+Developer;Vue.js+%7C+JavaScript+%7C+Modern+Web;Building+sleek+%26+interactive+interfaces" alt="Typing SVG" />
-  </a>
-
-  <!-- Quick Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-00F0FF?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" alt="Focus: Frontend" />
-    <img src="https://img.shields.io/badge/Education-ETML%20(Year%202)-A855F7?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" alt="Education: ETML" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Projects-FF007F?style=for-the-badge&logoColor=0D1117&labelColor=0D1117" alt="Status" />
-  </p>
+  <!-- Highlights & Status Cyber Frame -->
+  <img src="./assets/subcard.svg" alt="Profile Highlights & Status" width="100%" />
 
 </div>
 
