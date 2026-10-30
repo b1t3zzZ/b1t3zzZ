@@ -24,7 +24,7 @@
 
 - 🎓 **Education:** 2nd-year Computer Science / IT student at **ETML** (*École Technique des Métiers de Lausanne*).
 - 🎯 **Primary Focus:** Modern **Frontend Development** with an emphasis on **Vue.js** & component architecture.
-- ⚙️ **Multi-Language Experience:** Hands-on experience developing backend & system logic in **Go** and **C#**, bringing strong algorithmic foundations to web apps.
+- ⚙️ **Multi-Language Experience:** Hands-on experience developing in **Go**, **C#**, **C++**, **PHP**, and **PowerShell**, giving me a versatile engineering foundation.
 - 🎨 **UI/UX & Web Performance:** Enthusiastic about slick interfaces, smooth responsiveness, and dark/neon aesthetics.
 - 💡 **Philosophy:** Writing clean, maintainable code and continuously learning modern web standards.
 
@@ -42,10 +42,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### ⚙️ Backend & Systems Knowledge
+#### ⚙️ Backend, Systems & Scripting
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
 #### 🧰 Tools & Environment
@@ -56,6 +59,45 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Project One</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      </p>
+      <p align="center">
+        Interactive web application built with modern frontend architecture, reusable components, and responsive design.
+      </p>
+      <p align="center">
+        <a href="https://github.com/b1t3zzZ"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Project Two</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      </p>
+      <p align="center">
+        Robust backend / systems project focusing on clean code, algorithm efficiency, and solid software architecture.
+      </p>
+      <p align="center">
+        <a href="https://github.com/b1t3zzZ"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
