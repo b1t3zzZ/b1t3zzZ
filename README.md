@@ -1,13 +1,14 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
-  <a href="https://github.com/b1t3zzZ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Hi+there,+I'm+Maksym+Tsybulevskyi;2nd+Year+Student+at+ETML;Aspiring+Frontend+Developer;Vue.js+%7C+JavaScript+%7C+Modern+Web;Building+sleek+%26+interactive+interfaces" alt="Typing SVG" />
-  </a>
+  <!-- Wide Hero Cyber Banner -->
+  <img src="./assets/header.svg" alt="b1t3zzZ Banner" width="100%" />
 
-  <p align="center">
-    <b>Passionate about modern web technologies, sleek UI/UX, and clean architecture.</b>
-  </p>
+  <br/><br/>
+
+  <!-- Typing SVG -->
+  <a href="https://github.com/b1t3zzZ">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Hi+there,+I'm+Maksym+Tsybulevskyi;2nd+Year+Student+at+ETML;Aspiring+Frontend+Developer;Vue.js+%7C+JavaScript+%7C+Modern+Web;Building+sleek+%26+interactive+interfaces" alt="Typing SVG" />
+  </a>
 
   <!-- Quick Badges -->
   <p align="center">
@@ -17,6 +18,25 @@
   </p>
 
 </div>
+
+---
+
+### 🖥️ Terminal Session
+
+```bash
+┌──(b1t3zzZ㉿ETML)-[~]
+└─$ ./init_dev.sh --target=frontend --verbose
+
+[✔] Initializing student profile...  [ OK ] ETML Lausanne (Year 2)
+[✔] Mounting core frontend stack...  [ OK ] Vue.js, JavaScript, Modern CSS
+[✔] Loading backend & systems...     [ OK ] Go, C#, C++, PHP, PowerShell
+[✔] Connecting database engine...    [ OK ] MySQL
+[⚡] Ready: Crafting sleek, high-performance web applications.
+
+┌──(b1t3zzZ㉿ETML)-[~]
+└─$ echo $STATUS
+"Always learning, open to collaborations & frontend engineering challenges."
+```
 
 ---
 
