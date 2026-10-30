@@ -24,7 +24,7 @@
 
 - 🎓 **Education:** 2nd-year Computer Science / IT student at **ETML** (*École Technique des Métiers de Lausanne*).
 - 🎯 **Primary Focus:** Modern **Frontend Development** with an emphasis on **Vue.js** & component architecture.
-- ⚙️ **Multi-Language Experience:** Hands-on experience developing in **Go**, **C#**, **C++**, **PHP**, and **PowerShell**, giving me a versatile engineering foundation.
+- ⚙️ **Backend & Database Foundation:** Practical experience with **Go**, **C#**, **C++**, **PHP**, **PowerShell**, and relational databases using **MySQL**.
 - 🎨 **UI/UX & Web Performance:** Enthusiastic about slick interfaces, smooth responsiveness, and dark/neon aesthetics.
 - 💡 **Philosophy:** Writing clean, maintainable code and continuously learning modern web standards.
 
@@ -49,6 +49,11 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
+
+#### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 #### 🧰 Tools & Environment
