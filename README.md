@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Header -->
   <a href="https://github.com/b1t3zzZ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Hi+there,+I'm+Maksym+Tsybulevskyi+👋;2nd+Year+Student+@+ETML+🎓;Aspiring+Frontend+Developer+🚀;Vue.js+•+JavaScript+•+Modern+Web+⚡;Building+sleek+%26+interactive+interfaces" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Hi+there,+I'm+Maksym+Tsybulevskyi;2nd+Year+Student+at+ETML;Aspiring+Frontend+Developer;Vue.js+%7C+JavaScript+%7C+Modern+Web;Building+sleek+%26+interactive+interfaces" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -35,5 +35,83 @@ current_focus:
   - "Deepening JavaScript & modern CSS (Tailwind / SCSS)"
 
 strengths:
-  - "Solid fundamentals in both Frontend (JS/Vue) and Systems/Backend (Go, C#)"
+  - "Solid fundamentals in Frontend (Vue, JS, HTML/CSS) and Systems (Go, C#)"
   - "Attention to UI details, performance, and clean code"
+```
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+#### 🌐 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### ⚙️ Backend & Systems Knowledge
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+</p>
+
+#### 🧰 Tools & Environment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=b1t3zzZ&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b1t3zzZ&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=b1t3zzZ&theme=tokyonight&background=0D1117&border=00F0FF&stroke=00F0FF&ring=A855F7&fire=FF007F&currStreakNum=00F0FF&sideNums=E2E8F0&sideLabels=9CA3AF&dates=9CA3AF" alt="Streak Stats" width="97%" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/b1t3zzZ/b1t3zzZ/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+
+<!-- Replace '#' with your actual links whenever you're ready -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+&nbsp;
+<a href="mailto:tsibulevskiym@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
