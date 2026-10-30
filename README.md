@@ -8,7 +8,7 @@
   <br/><br/>
 
   <!-- Interactive Terminal Session -->
-  <img src="./assets/terminal.svg" alt="Terminal Session" width="100%" />
+  <img src="./assets/terminal_view.svg" alt="Terminal Session" width="100%" />
 
 </div>
 

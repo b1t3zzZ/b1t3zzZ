@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 680" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#131826" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#080B11" />
+    </linearGradient>
+
+    <!-- Header Gradient -->
+    <linearGradient id="termHeader" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#222938" />
+      <stop offset="100%" stop-color="#161B24" />
+    </linearGradient>
+
+    <!-- Neon Laser Accent for Terminal -->
+    <linearGradient id="termLaser" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0" />
+    </linearGradient>
+
+    <style>
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .cursor {
+        animation: blink 1s step-end infinite;
+      }
+      .font-mono {
+        font-family: 'Fira Code', 'JetBrains Mono', 'Cascadia Code', 'Consolas', monospace;
+      }
+    </style>
+  </defs>
+
+  <!-- Terminal Window Shadow & Frame -->
+  <rect x="2" y="2" width="956" height="676" rx="14" fill="url(#termBg)" stroke="#26344B" stroke-width="2" />
+
+  <!-- Terminal Header / Titlebar -->
+  <path d="M 2 16 Q 2 2 16 2 L 944 2 Q 958 2 958 16 L 958 46 L 2 46 Z" fill="url(#termHeader)" />
+  <line x1="2" y1="46" x2="958" y2="46" stroke="#334155" stroke-width="1" />
+  <line x1="220" y1="46" x2="740" y2="46" stroke="url(#termLaser)" stroke-width="2" />
+
+  <!-- Window Control Buttons (macOS style) -->
+  <circle cx="30" cy="24" r="7" fill="#FF5F56" />
+  <circle cx="54" cy="24" r="7" fill="#FFBD2E" />
+  <circle cx="78" cy="24" r="7" fill="#27C93F" />
+
+  <!-- Terminal Title -->
+  <text x="480" y="30" text-anchor="middle" class="font-mono" font-size="14.5" font-weight="700" fill="#CBD5E1">
+    b1t3zzZ@ETML-workstation:~ (bash)
+  </text>
+
+  <!-- Session indicator on right -->
+  <text x="928" y="30" text-anchor="end" class="font-mono" font-size="13" font-weight="600" fill="#64748B">
+    UTF-8 // zsh
+  </text>
+
+  <!-- Terminal Content Lines -->
+  <g class="font-mono">
+
+    <!-- === SECTION 1: ABOUT ME / PROFILE === -->
+    <!-- Prompt 1 -->
+    <text x="32" y="86" fill="#00F0FF" font-size="18" font-weight="700">┌──(</text>
+    <text x="72" y="86" fill="#C084FC" font-size="18" font-weight="700">b1t3zzZ㉿ETML</text>
+    <text x="208" y="86" fill="#00F0FF" font-size="18" font-weight="700">)-[</text>
+    <text x="238" y="86" fill="#FFFFFF" font-size="18" font-weight="700">~</text>
+    <text x="250" y="86" fill="#00F0FF" font-size="18" font-weight="700">]</text>
+
+    <!-- Command 1 -->
+    <text x="32" y="118" fill="#00F0FF" font-size="18" font-weight="700">└─$</text>
+    <text x="78" y="118" fill="#FFFFFF" font-size="17.5" font-weight="700">./about_me.sh --verbose</text>
+
+    <!-- Output 1.1: Education -->
+    <text x="48" y="156" font-size="17">🎓</text>
+    <text x="78" y="156" fill="#CBD5E1" font-size="16.5" font-weight="600">Education</text>
+    <text x="218" y="156" fill="#64748B" font-size="16.5" font-weight="700">:</text>
+    <text x="236" y="156" fill="#38BDF8" font-size="16.5" font-weight="700">ETML Lausanne</text>
+    <text x="382" y="156" fill="#94A3B8" font-size="16.5">• 2nd Year Computer Science</text>
+
+    <!-- Output 1.2: Focus -->
+    <text x="48" y="194" font-size="17">🎯</text>
+    <text x="78" y="194" fill="#CBD5E1" font-size="16.5" font-weight="600">Main Focus</text>
+    <text x="218" y="194" fill="#64748B" font-size="16.5" font-weight="700">:</text>
+    <text x="236" y="194" fill="#00F0FF" font-size="16.5" font-weight="700">Modern Frontend</text>
+    <text x="400" y="194" fill="#F1F5F9" font-size="16.5">• Vue.js Reactive Architecture</text>
+
+    <!-- Output 1.3: UI/UX -->
+    <text x="48" y="232" font-size="17">🎨</text>
+    <text x="78" y="232" fill="#CBD5E1" font-size="16.5" font-weight="600">UI/UX Design</text>
+    <text x="218" y="232" fill="#64748B" font-size="16.5" font-weight="700">:</text>
+    <text x="236" y="232" fill="#F472B6" font-size="16.5" font-weight="700">Slick Interfaces</text>
+    <text x="400" y="232" fill="#F1F5F9" font-size="16.5">• Responsive &amp; Cyber Neon UI</text>
+
+    <!-- Output 1.4: Philosophy -->
+    <text x="48" y="270" font-size="17">💡</text>
+    <text x="78" y="270" fill="#CBD5E1" font-size="16.5" font-weight="600">Philosophy</text>
+    <text x="218" y="270" fill="#64748B" font-size="16.5" font-weight="700">:</text>
+    <text x="236" y="270" fill="#F1F5F9" font-size="16.5">Clean, maintainable code &amp; modern standards</text>
+
+
+    <!-- === SECTION 2: TECH STACK & SKILLS === -->
+    <!-- Prompt 2 -->
+    <text x="32" y="322" fill="#00F0FF" font-size="18" font-weight="700">┌──(</text>
+    <text x="72" y="322" fill="#C084FC" font-size="18" font-weight="700">b1t3zzZ㉿ETML</text>
+    <text x="208" y="322" fill="#00F0FF" font-size="18" font-weight="700">)-[</text>
+    <text x="238" y="322" fill="#FFFFFF" font-size="18" font-weight="700">~/tech-stack</text>
+    <text x="362" y="322" fill="#00F0FF" font-size="18" font-weight="700">]</text>
+
+    <!-- Command 2 -->
+    <text x="32" y="354" fill="#00F0FF" font-size="18" font-weight="700">└─$</text>
+    <text x="78" y="354" fill="#FFFFFF" font-size="17.5" font-weight="700">dev-stack --show-categories</text>
+
+    <!-- Output 2.1: Frontend -->
+    <text x="48" y="392" font-size="17">🌐</text>
+    <text x="78" y="392" fill="#CBD5E1" font-size="16.5" font-weight="600">Frontend</text>
+    <text x="218" y="392" fill="#64748B" font-size="16.5" font-weight="700">:</text>
+    <text x="236" y="392" fill="#4ADE80" font-size="16.5" font-weight="700">Vue.js</text>
+    <text x="300" y="392" fill="#64748B" font-size="16.5">•</text>
+    <text x="318" y="392" fill="#FDE047" font-size="16.5" font-weight="700">JavaScript (ES6+)</text>
+    <text x="486" y="392" fill="#64748B" font-size="16.5">•</text>
+    <text x="504" y="392" fill="#FB923C" font-size="16.5" font-weight="700">HTML5</text>
+    <text x="562" y="392" fill="#64748B" font-size="16.5">•</text>
+    <text x="580" y="392" fill="#38BDF8" font-size="16.5" font-weight="700">CSS3</text>
+
+    <!-- Output 2.2: Backend -->
+    <text x="48" y="430" font-size="17">⚙️</text>
+    <text x="78" y="430" fill="#CBD5E1" font-size="16.5" font-weight="600">Backend &amp; Sys</text>
+    <text x="218" y="430" fill="#64748B" font-size="16.5" font-weight="700">:</text>
+    <text x="236" y="430" fill="#38BDF8" font-size="16.5" font-weight="700">Go</text>
+    <text x="264" y="430" fill="#64748B" font-size="16.5">•</text>
+    <text x="282" y="430" fill="#4ADE80" font-size="16.5" font-weight="700">C#</text>
+    <text x="310" y="430" fill="#64748B" font-size="16.5">•</text>
+    <text x="328" y="430" fill="#60A5FA" font-size="16.5" font-weight="700">C++</text>
+    <text x="364" y="430" fill="#64748B" font-size="16.5">•</text>
+    <text x="382" y="430" fill="#C084FC" font-size="16.5" font-weight="700">PHP</text>
+    <text x="420" y="430" fill="#64748B" font-size="16.5">•</text>
+    <text x="438" y="430" fill="#818CF8" font-size="16.5" font-weight="700">PowerShell</text>
+
+    <!-- Output 2.3: Database -->
+    <text x="48" y="468" font-size="17">🗄️</text>
+    <text x="78" y="468" fill="#CBD5E1" font-size="16.5" font-weight="600">Database</text>
+    <text x="218" y="468" fill="#64748B" font-size="16.5" font-weight="700">:</text>
+    <text x="236" y="468" fill="#FB923C" font-size="16.5" font-weight="700">MySQL</text>
+    <text x="300" y="468" fill="#94A3B8" font-size="16.5">(Relational Schema &amp; Query Design)</text>
+
+    <!-- Output 2.4: Tools -->
+    <text x="48" y="506" font-size="17">🧰</text>
+    <text x="78" y="506" fill="#CBD5E1" font-size="16.5" font-weight="600">Dev Tools</text>
+    <text x="218" y="506" fill="#64748B" font-size="16.5" font-weight="700">:</text>
+    <text x="236" y="506" fill="#38BDF8" font-size="16.5" font-weight="700">VS Code</text>
+    <text x="318" y="506" fill="#64748B" font-size="16.5">•</text>
+    <text x="336" y="506" fill="#F87171" font-size="16.5" font-weight="700">IntelliJ IDEA</text>
+    <text x="466" y="506" fill="#64748B" font-size="16.5">•</text>
+    <text x="484" y="506" fill="#C084FC" font-size="16.5" font-weight="700">Rider</text>
+    <text x="540" y="506" fill="#64748B" font-size="16.5">•</text>
+    <text x="558" y="506" fill="#FB923C" font-size="16.5" font-weight="700">Git</text>
+    <text x="594" y="506" fill="#64748B" font-size="16.5">•</text>
+    <text x="612" y="506" fill="#FFFFFF" font-size="16.5" font-weight="700">GitHub</text>
+
+
+    <!-- === SECTION 3: CURRENT STATUS === -->
+    <!-- Prompt 3 -->
+    <text x="32" y="556" fill="#00F0FF" font-size="18" font-weight="700">┌──(</text>
+    <text x="72" y="556" fill="#C084FC" font-size="18" font-weight="700">b1t3zzZ㉿ETML</text>
+    <text x="208" y="556" fill="#00F0FF" font-size="18" font-weight="700">)-[</text>
+    <text x="238" y="556" fill="#FFFFFF" font-size="18" font-weight="700">~</text>
+    <text x="250" y="556" fill="#00F0FF" font-size="18" font-weight="700">]</text>
+
+    <!-- Command 3 -->
+    <text x="32" y="588" fill="#00F0FF" font-size="18" font-weight="700">└─$</text>
+    <text x="78" y="588" fill="#FFFFFF" font-size="17.5" font-weight="700">echo $STATUS</text>
+
+    <!-- Status Output -->
+    <text x="48" y="624" fill="#38BDF8" font-size="16.5" font-weight="600">"Open to frontend challenges, internships &amp; collaborative builds."</text>
+    <text x="756" y="624" fill="#00F0FF" class="cursor font-mono" font-size="18" font-weight="800">█</text>
+
+    <!-- Session active footer line -->
+    <text x="48" y="658" fill="#64748B" font-size="13.5">// Session active: ready for input...</text>
+  </g>
+</svg>
