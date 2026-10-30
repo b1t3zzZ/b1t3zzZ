@@ -64,45 +64,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 Project One</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      </p>
-      <p align="center">
-        Interactive web application built with modern frontend architecture, reusable components, and responsive design.
-      </p>
-      <p align="center">
-        <a href="https://github.com/b1t3zzZ"><b>📂 View Repository</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Project Two</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-      </p>
-      <p align="center">
-        Robust backend / systems project focusing on clean code, algorithm efficiency, and solid software architecture.
-      </p>
-      <p align="center">
-        <a href="https://github.com/b1t3zzZ"><b>📂 View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
