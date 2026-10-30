@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Wide Hero Cyber Banner -->
-  <img src="./assets/header.svg" alt="b1t3zzZ Banner" width="100%" />
+  <img src="./assets/header.svg" alt="Maksym Tsybulevskyi Banner" width="100%" />
 
   <br/><br/>
 
@@ -23,20 +23,9 @@
 
 ### 🖥️ Terminal Session
 
-```bash
-┌──(b1t3zzZ㉿ETML)-[~]
-└─$ ./init_dev.sh --target=frontend --verbose
-
-[✔] Initializing student profile...  [ OK ] ETML Lausanne (Year 2)
-[✔] Mounting core frontend stack...  [ OK ] Vue.js, JavaScript, Modern CSS
-[✔] Loading backend & systems...     [ OK ] Go, C#, C++, PHP, PowerShell
-[✔] Connecting database engine...    [ OK ] MySQL
-[⚡] Ready: Crafting sleek, high-performance web applications.
-
-┌──(b1t3zzZ㉿ETML)-[~]
-└─$ echo $STATUS
-"Always learning, open to collaborations & frontend engineering challenges."
-```
+<div align="center">
+  <img src="./assets/terminal.svg" alt="Terminal Session" width="100%" />
+</div>
 
 ---
 
