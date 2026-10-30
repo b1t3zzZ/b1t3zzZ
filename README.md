@@ -22,22 +22,11 @@
 
 ### 🚀 About Me
 
-```yaml
-student:
-  name: "Maksym Tsybulevskyi"
-  school: "ETML (École Technique des Métiers de Lausanne)"
-  year: "2nd Year"
-  target_role: "Frontend Developer"
-
-current_focus:
-  - "Mastering Vue.js ecosystem & Component Architecture"
-  - "Writing clean, type-safe, and responsive web apps"
-  - "Deepening JavaScript & modern CSS (Tailwind / SCSS)"
-
-strengths:
-  - "Solid fundamentals in Frontend (Vue, JS, HTML/CSS) and Systems (Go, C#)"
-  - "Attention to UI details, performance, and clean code"
-```
+- 🎓 **Education:** 2nd-year Computer Science / IT student at **ETML** (*École Technique des Métiers de Lausanne*).
+- 🎯 **Primary Focus:** Modern **Frontend Development** with an emphasis on **Vue.js** & component architecture.
+- ⚙️ **Multi-Language Experience:** Hands-on experience developing backend & system logic in **Go** and **C#**, bringing strong algorithmic foundations to web apps.
+- 🎨 **UI/UX & Web Performance:** Enthusiastic about slick interfaces, smooth responsiveness, and dark/neon aesthetics.
+- 💡 **Philosophy:** Writing clean, maintainable code and continuously learning modern web standards.
 
 ---
 
@@ -61,9 +50,11 @@ strengths:
 
 #### 🧰 Tools & Environment
 <p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 </div>
