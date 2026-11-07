@@ -116,25 +116,25 @@
 
   <g clip-path="url(#clip1)">
     <text x="60" y="60" class="font-code" font-size="21" font-weight="700" fill="#FFFFFF">
-      2nd Year Student at <tspan fill="#C084FC" font-weight="800">ETML Lausanne</tspan> <tspan class="cursor" fill="#00F0FF">█</tspan>
+      2nd Year CFC Dev at <tspan fill="#C084FC" font-weight="800">ETML Lausanne</tspan> <tspan class="cursor" fill="#00F0FF">█</tspan>
     </text>
   </g>
 
   <g clip-path="url(#clip2)">
     <text x="60" y="60" class="font-code" font-size="21" font-weight="700" fill="#FFFFFF">
-      Aspiring <tspan fill="#00F0FF" font-weight="800">Frontend Developer</tspan> <tspan class="cursor" fill="#00F0FF">█</tspan>
+      <tspan fill="#00F0FF" font-weight="800">Full-Stack &amp; Frontend</tspan> Web Developer <tspan class="cursor" fill="#00F0FF">█</tspan>
     </text>
   </g>
 
   <g clip-path="url(#clip3)">
     <text x="60" y="60" class="font-code" font-size="21" font-weight="700" fill="#FFFFFF">
-      <tspan fill="#4ADE80" font-weight="800">Vue.js</tspan> <tspan fill="#64748B">|</tspan> <tspan fill="#FDE047" font-weight="800">JavaScript</tspan> <tspan fill="#64748B">|</tspan> Modern Web <tspan class="cursor" fill="#00F0FF">█</tspan>
+      <tspan fill="#4ADE80" font-weight="800">Vue 3</tspan> <tspan fill="#64748B">|</tspan> <tspan fill="#38BDF8" font-weight="800">TypeScript</tspan> <tspan fill="#64748B">|</tspan> <tspan fill="#C084FC" font-weight="800">Node.js</tspan> <tspan fill="#64748B">|</tspan> <tspan fill="#00F0FF" font-weight="800">Docker</tspan> <tspan class="cursor" fill="#00F0FF">█</tspan>
     </text>
   </g>
 
   <g clip-path="url(#clip4)">
     <text x="60" y="60" class="font-code" font-size="21" font-weight="700" fill="#FFFFFF">
-      Building <tspan fill="#F472B6" font-weight="800">sleek</tspan> &amp; <tspan fill="#00F0FF" font-weight="800">interactive</tspan> web apps <tspan class="cursor" fill="#00F0FF">█</tspan>
+      Building <tspan fill="#F472B6" font-weight="800">scalable</tspan> &amp; <tspan fill="#00F0FF" font-weight="800">real-time</tspan> web systems <tspan class="cursor" fill="#00F0FF">█</tspan>
     </text>
   </g>
 
@@ -147,7 +147,7 @@
     <rect x="0" y="0" width="255" height="34" rx="7" fill="#0D131F" stroke="#00F0FF" stroke-width="1.4" stroke-opacity="0.9" />
     <path d="M 0 7 Q 0 0 7 0 L 72 0 L 72 34 L 7 34 Q 0 34 0 27 Z" fill="#00F0FF" fill-opacity="0.18" />
     <text x="13" y="22" class="font-code" font-size="12.5" font-weight="800" fill="#00F0FF" letter-spacing="1">FOCUS</text>
-    <text x="82" y="22" class="font-code" font-size="13" font-weight="700" fill="#FFFFFF">Frontend Development</text>
+    <text x="82" y="22" class="font-code" font-size="13" font-weight="700" fill="#FFFFFF">Full-Stack &amp; Web UI</text>
   </g>
 
   <!-- Badge 2: Education -->

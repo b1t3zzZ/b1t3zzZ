@@ -81,8 +81,8 @@
   </text>
 
   <!-- Role Subtitle -->
-  <text x="50" y="142" class="font-code" font-size="16" font-weight="600" fill="#CBD5E1" letter-spacing="0.8">
-    <tspan fill="#00F0FF" font-weight="800">Frontend Developer</tspan> • Vue.js • TypeScript • Systems &amp; Databases (Go, C#, MySQL)
+  <text x="50" y="142" class="font-code" font-size="15.5" font-weight="600" fill="#CBD5E1" letter-spacing="0.6">
+    <tspan fill="#00F0FF" font-weight="800">Full-Stack &amp; Frontend Dev</tspan> • Vue 3 • TypeScript • Node.js • Docker • Go • C#
   </text>
 
   <!-- Bottom Accent Line -->
